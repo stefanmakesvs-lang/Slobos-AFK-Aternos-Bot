@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "playStefanSMP.aternos.me",
-    "port": 32771,
+    "ip": "karlpvp.minefort.com",
+    "port": 19132,
     "version": "1.21.11",
     "try-creative": false
   },
